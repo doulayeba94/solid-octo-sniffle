@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Documentation 5G NR</title>
+    <style>
+        /* Ajoutez ici vos styles CSS pour la mise en page */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        header {
+            background-color: #f5f5f5;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+        main {
+            padding: 10px;
+        }
+        section {
+            margin-bottom: 30px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Documentation 5G NR</h1>
+        <nav>
+            <ul>
+                <li><a href="#introduction">Introduction</a></li>
+                <li><a href="#installation">Installation</a></li>
+                <li><a href="#guide_utilisation">Guide d'Utilisation</a></li>
+                <li><a href="#fonctionnalites">Fonctionnalités Principales</a></li>
+                <li><a href="#calculs_modeles">Calculs et Modèles Utilisés</a></li>
+                <li><a href="#resultats_interpretations">Résultats et Interprétations</a></li>
+                <li><a href="#astuces_recommandations">Astuces et Recommandations</a></li>
+                <li><a href="#support_contact">Support et Contact</a></li>
+                <li><a href="#notes_version">Notes de Version</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="introduction">
+            <h2>Introduction</h2>
+            <p>Présentation générale de l'application, objectifs, auteurs, etc.</p>
+        </section>
+
+        <section id="installation">
+            <h2>Installation</h2>
+            <p>Instructions pour installer et exécuter l'application.</p>
+        </section>
+
+        <section id="guide_utilisation">
+            <h2>Guide d'Utilisation</h2>
+            <p>Description de l'interface, étapes pour utiliser l'outil, etc.</p>
+        </section>
+
+        <section id="fonctionnalites">
+            <h2>Fonctionnalités Principales</h2>
+            <p>Explication détaillée des fonctionnalités de l'application.</p>
+        </section>
+
+        <section id="calculs_modeles">
+            <h2>Calculs et Modèles Utilisés</h2>
+            <p>Explication des calculs, modèles mathématiques utilisés, etc.</p>
+        </section>
+
+        <section id="resultats_interpretations">
+            <h2>Résultats et Interprétations</h2>
+            <p>Interprétation des résultats générés par l'application.</p>
+        </section>
+
+        <section id="astuces_recommandations">
+            <h2>Astuces et Recommandations</h2>
+            <p>Conseils pour optimiser l'utilisation de l'application.</p>
+        </section>
+
+        <section id="support_contact">
+            <h2>Support et Contact</h2>
+            <p>Informations de contact pour obtenir de l'aide ou du support technique.</p>
+        </section>
+
+        <section id="notes_version">
+            <h2>Notes de Version</h2>
+            <p>Historique des mises à jour de l'application avec les nouvelles fonctionnalités, corrections de bugs, etc.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2023 Votre Application 5G NR</p>
+        <!-- Ajoutez ici des informations supplémentaires, des liens de contact, etc. -->
+    </footer>
+</body>
+</html>
